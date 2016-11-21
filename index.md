@@ -51,7 +51,7 @@ The first step in sending your sample for sequencing will be to complete a form 
 
 When the data come back from the facility, you will receive some documentation (metadata) as well as the sequence files themselves. Download and examine the following file - here provided both as an excel and a text file:
 
-- [Sequencing results - excel](./sequencing_results_metadata.xlsx)
+- [Sequencing results - excel](./sequencing_results_metadata.xls)
 - [Sequencing results - text](./sequencing_results_metadata.txt)
 
 **Questions**
